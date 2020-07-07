@@ -1,2 +1,2 @@
-# TCA-Merge
+## TCA-Merge
 Merge scheme based on TCA
